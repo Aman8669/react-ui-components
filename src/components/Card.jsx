@@ -18,7 +18,7 @@ const Card = (props) => {
 
         <p>{props.about}</p>
 
-        <button>View Profile</button>
+        <button><a href="#">View Profile</a></button>
 
       </div>
 

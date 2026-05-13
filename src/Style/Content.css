@@ -1,0 +1,31 @@
+.content{
+    
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.block{
+    margin-top: 20px;
+    border: 2px solid goldenrod;
+    padding: 2rem;
+    background-color: cadetblue;
+    width: 400px;
+    text-align: center;
+    border-radius:12px;
+
+}
+
+.block img{
+   
+    object-fit: cover;
+    margin: 0 auto;
+
+}
+
+.block h3,h4{
+    color: white;
+    margin-top: 18px;
+}
